@@ -1,2 +1,2 @@
 # Splash
-The repository code is about how to create a Splash in Android Studio
+This repository contains a splah example that can be used in a project.
